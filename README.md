@@ -1,2 +1,2 @@
 # endpoint
- Practicing flask
+ Practicing flask framework
